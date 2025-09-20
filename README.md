@@ -14,5 +14,3 @@ Hey, I'm Abdelkhaliq
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abde1khaliq&icon=0&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
