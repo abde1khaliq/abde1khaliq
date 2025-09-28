@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Hey, I'm Abdelkhaliq**
+**Hey, I'm Ahmed Abdelkhaliq**
 
 
 ## 🌐 Socials:
