@@ -8,7 +8,3 @@ I'm Ahmed Abdelkhaliq, a Full-stack Enthusiast from Egypt. I love building scala
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abde1khaliq&show_icons=true&theme=radical)
-
-## Connect with Me
-
-<a href="https://www.linkedin.com/in/ahmed-abdelkhaliq-32355133a/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://x.com/abde1khaliq" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a>
