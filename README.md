@@ -2,7 +2,7 @@
 
 I'm Ahmed Abdelkhaliq, a Full-stack Enthusiast from Egypt. I love building scalable and efficient applications, and I'm constantly exploring new technologies to enhance my skillset.
 
-## My Current Stack
+## My Current Stack & Technologies i use
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,react,tailwind,js,django,py,git,nodejs,npm,nextjs,linux,ubuntu,vite&perline=8)](https://skillicons.dev)
 
