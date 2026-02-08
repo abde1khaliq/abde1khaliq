@@ -12,7 +12,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="0" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="50" alt="fedora logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
