@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm Ahmed Abdelkhaliq, a 17‑year‑old full‑stack web developer from Egypt. Ever since I was a kid, coding has been my go‑to. I’ve always been fascinated by how a few lines of syntax can turn into something real, an app, a tool, or even a product that people use. What started as curiosity grew into a passion for building solutions and shaping ideas into reality.</h4>
+<h4 align="left">I'm Ahmed Abdelkhaliq, a 17‑year‑old Backend developer from Egypt. Ever since I was a kid, coding has been my go‑to. I’ve always been fascinated by how a few lines of syntax can turn into something real, an app, a tool, or even a product that people use. What started as curiosity grew into a passion for building solutions and shaping ideas into reality.</h4>
 
 ###
 
