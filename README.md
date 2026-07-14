@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&size=32&duration=3000&pause=1000&color=F5F0E6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmed;Backend+Developer;FastAPI+%2B+Python;Building+things+with+Celery+%26+Redis" alt="Typing SVG" />
+# Ahmed
+
+<img src="https://readme-typing-svg.demolab.com?font=Syne&size=22&duration=3000&pause=1000&color=F5F0E6&center=true&vCenter=true&width=600&lines=Backend+Developer;FastAPI+%2B+Python;Building+things+with+Celery+%26+Redis" alt="Typing SVG" />
 
 </div>
 
