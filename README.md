@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" padding-bottom="20px">
 <img src="https://ik.imagekit.io/cin2tn3bj/logo_cropped.png" width="200px" height="200px"/>
 </div>
 
