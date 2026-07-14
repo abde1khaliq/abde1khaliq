@@ -6,13 +6,6 @@
 
 <br/>
 
-## About Me
-
-- 🔧 Backend developer with **5–6 years** of experience, mainly in **Python** and **FastAPI**
-- 🖥️ I architect Concepts to Launch.
-
-<br/>
-
 ## Tech Stack
 
 <div align="center">
