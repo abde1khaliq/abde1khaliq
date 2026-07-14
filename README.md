@@ -1,3 +1,86 @@
-<h1 align="left">Hey There 👋</h1>
+<div align="center">
 
-Hey! I'm Ahmed Mohamed Ahmed Abdelkhaliq, aka Abdelkhaliq. I'm a backend web developer based in Alexandria, Egypt. Building secure systems using the latest Frameworks and Libraries. Enough talking, check my Portfolio or my Repos page, let my projects speak for themselves.
+<img src="https://readme-typing-svg.demolab.com?font=Syne&size=32&duration=3000&pause=1000&color=F5F0E6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmed;Backend+Developer;FastAPI+%2B+Python;Building+things+with+Celery+%26+Redis" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## About Me
+
+- 🔧 Backend developer with **5–6 years** of experience, mainly in **Python** and **FastAPI**
+- 🖥️ Also work on the frontend — currently building my portfolio with **React** and **Chakra UI**
+- 📡 Recently deep in **background job architecture**: Celery, Redis, task queues, retries, and scheduling
+- 🛠️ Currently building **trackable_server** — a URL/content watcher app (FastAPI + Celery + Redis + PostgreSQL + Next.js)
+- 🌱 Always closing knowledge gaps by building real projects, not just tutorials
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abde1khaliq&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=F5F0E6&text_color=C9C2B4&icon_color=F5F0E6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde1khaliq&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=F5F0E6&text_color=C9C2B4" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abde1khaliq&theme=dark&hide_border=true&background=0D0D0D&stroke=F5F0E6&ring=F5F0E6&fire=F5F0E6&currStreakLabel=F5F0E6" />
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abde1khaliq/abde1khaliq/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+> Set up via [platane/snk](https://github.com/Platane/snk) — a GitHub Action that regenerates this SVG on a schedule.
+
+<br/>
+
+## Currently Working On
+
+**trackable_server** — a self-hosted URL/content watcher built to learn background job patterns properly:
+- FastAPI + Celery + Redis + PostgreSQL, containerized with Docker
+- Celery Beat scheduling via a `next_check_at` polling column
+- Synchronous psycopg engine for Celery workers to avoid event-loop/connection-pool issues under prefork
+- Next.js frontend with typed `Trackable`/`Snapshot` models
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://YOUR-PORTFOLIO-URL.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
