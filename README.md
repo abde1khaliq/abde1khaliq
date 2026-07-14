@@ -30,12 +30,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abde1khaliq&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=F5F0E6&text_color=C9C2B4" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abde1khaliq&theme=dark&hide_border=true&background=0D0D0D&stroke=F5F0E6&ring=F5F0E6&fire=F5F0E6&currStreakLabel=F5F0E6" />
 
 </div>
