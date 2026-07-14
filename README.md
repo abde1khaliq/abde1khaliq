@@ -27,16 +27,6 @@ Hey! I'm Ahmed Mohamed Ahmed Abdelkhaliq, aka Abdelkhaliq. I'm a backend web dev
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abde1khaliq&theme=dark&hide_border=true&background=0D0D0D&stroke=F5F0E6&ring=F5F0E6&fire=F5F0E6&currStreakLabel=F5F0E6" />
-
-</div>
-
-<br/>
-
 ## Connect
 
 <div align="center">
