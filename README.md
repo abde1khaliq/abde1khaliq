@@ -1,11 +1,6 @@
 <div align="center">
-<img src="https://ik.imagekit.io/cin2tn3bj/logo_cropped.png" width="200px" height="200px"/>
-</div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&size=30&pause=1000&color=F5F0E6&center=true&width=435&lines=Backend+Web+Developer;Python+%2B+FastAPI)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&size=30&duration=2000&pause=1000&color=F5F0E6&center=true&width=435&lines=Backend+Web+Developer;Python+%2B+FastAPI;Concept+to+Launch)](https://git.io/typing-svg)
 </div>
 
 <br/>
