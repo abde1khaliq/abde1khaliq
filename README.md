@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ik.imagekit.io/cin2tn3bj/logo_cropped.png" width="50" height="50"/>
+<img src="https://ik.imagekit.io/cin2tn3bj/logo_cropped.png" width="100" height="100"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&size=30&pause=1000&color=F5F0E6&center=true&width=435&lines=Backend+Web+Developer;Python+%2B+FastAPI)](https://git.io/typing-svg)
 
