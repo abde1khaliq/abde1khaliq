@@ -9,10 +9,7 @@
 ## About Me
 
 - 🔧 Backend developer with **5–6 years** of experience, mainly in **Python** and **FastAPI**
-- 🖥️ Also work on the frontend — currently building my portfolio with **React** and **Chakra UI**
-- 📡 Recently deep in **background job architecture**: Celery, Redis, task queues, retries, and scheduling
-- 🛠️ Currently building **trackable_server** — a URL/content watcher app (FastAPI + Celery + Redis + PostgreSQL + Next.js)
-- 🌱 Always closing knowledge gaps by building real projects, not just tutorials
+- 🖥️ I architect Concepts to Launch.
 
 <br/>
 
@@ -50,28 +47,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abde1khaliq&theme=dark&hide_border=true&background=0D0D0D&stroke=F5F0E6&ring=F5F0E6&fire=F5F0E6&currStreakLabel=F5F0E6" />
 
 </div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abde1khaliq/abde1khaliq/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> Set up via [platane/snk](https://github.com/Platane/snk) — a GitHub Action that regenerates this SVG on a schedule.
-
-<br/>
-
-## Currently Working On
-
-**trackable_server** — a self-hosted URL/content watcher built to learn background job patterns properly:
-- FastAPI + Celery + Redis + PostgreSQL, containerized with Docker
-- Celery Beat scheduling via a `next_check_at` polling column
-- Synchronous psycopg engine for Celery workers to avoid event-loop/connection-pool issues under prefork
-- Next.js frontend with typed `Trackable`/`Snapshot` models
 
 <br/>
 
