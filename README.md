@@ -1,7 +1,8 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&size=30&duration=2000&pause=1000&color=F5F0E6&center=true&width=435&lines=Backend+Web+Developer;Python+%2B+FastAPI;Concept+to+Launch)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&size=30&duration=2000&pause=1000&color=F5F0E6&center=true&width=435&lines=Backend+Web+Developer;Python+%2B+FastAPI;Golang+%2B+Gin;Concept+to+Launch)](https://git.io/typing-svg)
 </div>
+
 
 Hey! I'm Ahmed Mohamed Ahmed Abdelkhaliq, aka Abdelkhaliq. I'm a backend web developer based in Alexandria, Egypt. Building secure systems using the latest Frameworks and Libraries. Enough talking, check my Portfolio or my Repos page, let my projects speak for themselves.
 
