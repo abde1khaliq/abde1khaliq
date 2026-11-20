@@ -34,7 +34,7 @@ Hey! I'm Ahmed Mohamed Ahmed Abdelkhaliq, aka Abdelkhaliq. I'm a backend web dev
 
 <br/>
 
-## Connect
+## Connect with me
 
 <div align="center">
 
