@@ -4,10 +4,10 @@
 
 # Ahmed Abdelkhaliq
 
-**Backend developer · Alexandria, Egypt**
+**Backend Engineer & Software Architect · Alexandria, Egypt**
 
-I build backend systems and APIs in Python and Go.
-See my [portfolio](https://abdelkhaliq.vercel.app) or [repositories](https://github.com/abde1khaliq?tab=repositories) and judge the work yourself.
+I build Backend systems and APIs in Python and Go.
+See my [portfolio](https://abdelkhaliq.vercel.app) or [repositories](https://github.com/abde1khaliq?tab=repositories) and judge the work yourself ;)
 
 <br/>
 
