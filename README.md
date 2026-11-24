@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ik.imagekit.io/cin2tn3bj/banner.png" alt="Ahmed Abdelkhaliq - Backend Developer" width="100%"/>
+<img src="https://ik.imagekit.io/cin2tn3bj/banner.png" alt="Ahmed Abdelkhaliq" width="100%"/>
 
 # Ahmed Abdelkhaliq
 
