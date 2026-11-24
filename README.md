@@ -7,7 +7,7 @@
 **Backend developer · Alexandria, Egypt**
 
 I build backend systems and APIs in Python and Go.
-See my [portfolio](https://abdelkhaliq.vercel.app) or [repositories](https://github.com/abde1lkhaliq?tab=repositories) and judge the work yourself.
+See my [portfolio](https://abdelkhaliq.vercel.app) or [repositories](https://github.com/abde1khaliq?tab=repositories) and judge the work yourself.
 
 <br/>
 
